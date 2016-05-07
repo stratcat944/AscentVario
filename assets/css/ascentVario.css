@@ -1,5 +1,5 @@
 html {
-    background-color: black;
+  background-color: black;
 	min-height:100%;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
@@ -19,12 +19,14 @@ body {
 	color:rgba(255,255,255,.8); 
 	font-weight: normal;
 }
+
 img {
     margin: 11px;
     -webkit-border-radius: 6px;
 	   -moz-border-radius: 6px;
 	        border-radius: 6px;
 }
+
 h3 {
 	font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
 }
